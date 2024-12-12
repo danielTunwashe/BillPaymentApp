@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BillPaymentApp
 {
-    internal class User
+    internal class User 
     {
         public string FullName { get; set; }
         public string Address { get; set; }

@@ -125,6 +125,7 @@ namespace BillPaymentApp
                         Login();
                         break;
                     case 3:
+                        Environment.Exit(0);
                         break;
                     default:
                         Console.WriteLine("You entered an incorrect option");
